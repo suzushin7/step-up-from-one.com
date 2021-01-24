@@ -1,10 +1,12 @@
+.logo,
+.post * {
+  font-family: 'Helvetica Neue', Arial, 'Meiryo', sans-serif !important;
+}
+
 .header .logo-wrapper .logo {
   font-size: 32px;
 }
 
-.logo, .post, .post-title {
-  font-family: 'Meiryo', sans-serif !important;
-}
 .post h2 {
   padding: 5px 10px;
   border-top: 3px double #8d6449;
@@ -26,6 +28,10 @@
 .post .post-content div {
   line-height: 1.8;
   font-size: 16px;
+  margin: 2.0em 1.0em;
+}
+
+.post .post-content img {
   margin: 2.0em 1.0em;
 }
 
