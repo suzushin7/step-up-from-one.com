@@ -4,6 +4,7 @@ user="c6595488"
 source="public/"
 target="/home/${user}/public_html/step-up-from-one.com"
 
+hugo
 git add --all
 git commit -m "[update] blog"
 git push origin master
