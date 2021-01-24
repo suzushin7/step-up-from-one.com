@@ -1,0 +1,35 @@
+.header .logo-wrapper .logo {
+  font-size: 32px;
+}
+
+.logo, .post, .post-title {
+  font-family: 'Meiryo', sans-serif !important;
+}
+.post h2 {
+  padding: 5px 10px;
+  border-top: 3px double #8d6449;
+  border-bottom: 3px double #8d6449;
+  color: #8d6449;
+  font-weight: bold;
+  font-size: 26px;
+}
+.post h3 {
+  padding: 5px 10px;
+  border-left: 10px solid #8d6449;
+  border-bottom: 1px solid #8d6449;
+  color: #8d6449;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.post .post-content p, 
+.post .post-content div {
+  line-height: 1.8;
+  font-size: 16px;
+  margin: 2.0em 1.0em;
+}
+
+.post .post-content a {
+  color: dodgerblue;
+  font-weight: bold;
+}

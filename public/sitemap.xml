@@ -2,19 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://step-up-from-one.com/tags/1%E3%81%8B%E3%82%89%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://step-up-from-one.com/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://step-up-from-one.com/categories/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/mtg/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/post/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>https://step-up-from-one.com/tags/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/post/2021/01/24/what-is-this-blog/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/%E3%82%AA%E3%82%BB%E3%83%AD/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%B6%E3%82%AE%E3%83%A3%E3%82%B6%E3%83%AA%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/%E6%A6%82%E8%A6%81/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/tags/%E9%81%8B%E5%96%B6%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/categories/%E9%81%8B%E5%96%B6%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2021-01-24T14:20:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://step-up-from-one.com/categories/%E9%81%8B%E5%96%B6%E6%83%85%E5%A0%B1/%E6%A6%82%E8%A6%81/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
