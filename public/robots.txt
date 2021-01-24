@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://step-up-from-one.com/sitemap.xml
