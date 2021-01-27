@@ -1,6 +1,5 @@
-.logo,
-.post * {
-  font-family: 'Helvetica Neue', Arial, 'Meiryo', sans-serif !important;
+body * {
+  font-family: 'Noto Sans JP', sans-serif !important;
 }
 
 .header .logo-wrapper .logo {
@@ -38,4 +37,12 @@
 .post .post-content a {
   color: dodgerblue;
   font-weight: bold;
+  border-bottom: 2px dashed dodgerblue;
+}
+.post .post-content a:hover {
+  font-weight: bold;
+  border-bottom: 2px solid dodgerblue;
+}
+.post .post-content .headerlink {
+  border-bottom: none;
 }
