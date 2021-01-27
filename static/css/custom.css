@@ -43,6 +43,7 @@ body * {
   font-weight: bold;
   border-bottom: 2px solid dodgerblue;
 }
-.post .post-content .headerlink {
+.post .post-content .headerlink,
+.post .post-content .fancybox {
   border-bottom: none;
 }
